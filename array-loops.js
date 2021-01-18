@@ -3,6 +3,8 @@
 // --------------------------
 
 const names = ["Henk", "Piet", "Fred", "Joop"];
+names = names + "je"
+console.log(names)
 
 // Verander de waardes van de array dusdanig dat er -"je" achter iedere naam wordt geplakt
 // Wanneer je de volledige array logt zie je alle nieuwe waardes
